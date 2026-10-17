@@ -1,0 +1,1 @@
+console.log("Hey form index.ts")
